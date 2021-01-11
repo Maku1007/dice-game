@@ -82,3 +82,5 @@ function switchToNextPlayer() {
   // Шоог түр алга болгоно.
   diceDom.style.display = "none";
 }
+
+/** New Game буюу Шинэ тоглоом эхлүүлэх товчний эвент листенер */
